@@ -3,10 +3,6 @@
 [![LICENSE](https://img.shields.io/badge/license-DeepGPT-informational)](https://github.com/Bluehouse/DeepGPT/blob/master/LICENSE) 
 [![deepGPT](https://img.shields.io/badge/link-deepgpt.com.cn-red)](https://deepgpt.com.cn)
 
-<!--</a><img align="right" src="https://fastly.jsdelivr.net/gh/hoochanlon/w3-goto-world/W3UnitTest/mof2.PNG" width="250 " height="250" /></a><a><img align="right" src="https://fastly.jsdelivr.net/gh/hoochanlon/w3-goto-world/W3UnitTest/mof1.PNG" width="250 " height="250" />-->
-
-<!--![冲出你的窗口](https://fastly.jsdelivr.net/gh/hoochanlon/w3-goto-world/W3UnitTest/ccndck.png)-->
-
 
 <h1 align="center"> 免责声明 </h1>
 
@@ -20,15 +16,19 @@
 
 ***[ScientificInternetAccess](ScientificInternetAccess/) ChatGPT产品等各类镜像与变现链路分享***
 
-* [ChatGPT底层逻辑剖析](ChatGPT底层逻辑剖析/)
-* [ChatGPT实战项目](ChatGPT实战项目/)
-* [ChatGPT变现项目](ChatGPT变现项目/)
-* [ChatGPT学习方法](ChatGPT学习方法/)
-* [ChatGPT的一些思考](ChatGPT的一些思考/)
+* [ChatGPT基础入门：初识ChatGPT](初识ChatGPT/)
+* [ChatGPT核心原理和底层逻辑：知其然知其所以然](ChatGPT核心原理和底层逻辑/)
+* [ChatGPT最强调教攻略：你真的会提问吗](ChatGPT调教攻略/)
+* [ChatGPT应用生态：不多，只有80%的人离不开它](ChatGPT应用生态/)
+* [ChatGPT实战项目：Don't talk, show your code](ChatGPT实战项目/)
+* [ChatGPT变现策略：别悠着，赚钱不寒碜](ChatGPT变现思路/)
+* [ChatGPT深度思考：风口已来](ChatGPT的一些思考/)
 
-***[资源存储库 web版](https://hoochanlon.github.io/w3-goto-world/)***
+***[资源存储库 web版](https://utmagic.com/)***
 
-收集全网最具落地潜力的chatGPT项目，挖掘商业价值，助力提升ChatGPT生产效率。
+### 项目 | 实操 | 变现
+
+收集全网最具落地潜力的chatGPT项目，专注挖掘商业价值，助力提升ChatGPT生产效率。
 
 <img src="https://i.imgtg.com/2023/03/26/jktjM.jpg" alt="jktjM.jpg" border="0" width="60%">
 
