@@ -18,8 +18,8 @@
 
 * [ChatGPT基础入门：初识ChatGPT](初识ChatGPT/)
 * [ChatGPT核心原理和底层逻辑：知其然知其所以然](ChatGPT核心原理和底层逻辑/)
-* [ChatGPT最强调教攻略：你真的会提问吗](ChatGPT调教攻略/)
-* [ChatGPT应用生态：不多，只有80%的人离不开它](ChatGPT应用生态/)
+* [ChatGPT调教攻略：你真的会提问吗](ChatGPT调教攻略/)
+* [ChatGPT未来生态：不多，只有80%的人离不开它](ChatGPT应用生态/)
 * [ChatGPT实战项目：Don't talk, show your code](ChatGPT实战项目/)
 * [ChatGPT变现策略：别悠着，赚钱不寒碜](ChatGPT变现思路/)
 * [ChatGPT深度思考：风口已来](ChatGPT的一些思考/)
