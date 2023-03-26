@@ -16,7 +16,7 @@
 
 ***[ScientificInternetAccess](ScientificInternetAccess/) ChatGPT产品等各类镜像与变现链路分享***
 
-* [ChatGPT基础入门：初识ChatGPT](初识ChatGPT/)
+* [ChatGPT基础入门：初识ChatGPT](ChatGPT基础入门/)<em>（含最新镜像网站）</em>
 * [ChatGPT核心原理和底层逻辑：知其然知其所以然](ChatGPT核心原理和底层逻辑/)
 * [ChatGPT调教攻略：你真的会提问吗](ChatGPT调教攻略/)
 * [ChatGPT未来生态：不多，只有80%的人离不开它](ChatGPT应用生态/)
