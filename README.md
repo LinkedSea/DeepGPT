@@ -14,7 +14,7 @@
 </p>
 <hr>
 
-***[ScientificInternetAccess](ScientificInternetAccess/) ChatGPT产品等各类镜像与变现链路分享***
+***[ScientificInternetAccess](ScientificInternetAccess/) ***
 
 * [ChatGPT基础入门：初识ChatGPT](ChatGPT基础入门/)<em>（含最新镜像网站）</em>
 * [ChatGPT核心原理和底层逻辑：知其然知其所以然](ChatGPT核心原理和底层逻辑/)
