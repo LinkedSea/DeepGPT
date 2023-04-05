@@ -32,5 +32,4 @@
 
 <img src="https://i.imgtg.com/2023/03/26/jktjM.jpg" alt="jktjM.jpg" border="0" width="60%">
 
-欢迎加入我们的社群。
 
