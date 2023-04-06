@@ -28,7 +28,7 @@
 
 ### 项目 | 实操 | 变现
 
-收集全网最具落地潜力的chatGPT项目，专注挖掘商业价值，助力提升ChatGPT工作效率。
+收集全网最具落地潜力的chatGPT项目，专注挖掘商业价值，助力提升ChatGPT工作效率
 
 <img src="https://i.imgtg.com/2023/03/26/jktjM.jpg" alt="jktjM.jpg" border="0" width="60%">
 
