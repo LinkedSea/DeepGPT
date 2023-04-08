@@ -24,7 +24,7 @@
 * [ChatGPT变现链路：别悠着，赚钱不寒碜](ChatGPT变现思路/)
 * [ChatGPT深度思考：风口已来](ChatGPT的一些思考/)
 
-***[资源存储库 web版](https://utmagic.com/)***
+***[资源存储库](https://utmagic.com/)***
 
 ### 项目 | 实操 | 变现
 
