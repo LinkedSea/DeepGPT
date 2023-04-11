@@ -28,7 +28,7 @@
 
 ### 项目 | 实操 | 变现
 
-收集全网最具落地潜力的chatGPT项目，专注挖掘商业价值
+DeepGPT专注AIGC技术探究、商业落地项目开发和变现链路挖掘，希望大家集思广益互帮互助，共同抓住这个风口以获得财富。
 
 <img src="https://i.imgtg.com/2023/03/26/jktjM.jpg" alt="jktjM.jpg" border="0" width="60%">
 
