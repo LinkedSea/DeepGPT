@@ -7,10 +7,6 @@
 <h1 align="center"> 免责声明 </h1>
 
 <p align="center">
-此 repo 本身并不提供任何的资料，所有内容仅为搬运。<br>
-且仅面向海外华人用户以便科研学习之用，切勿用于其他用途。
-<br>
-<hr>
 
 ***[ScientificInternetAccess](ScientificInternetAccess/) ***
 
