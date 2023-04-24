@@ -8,7 +8,7 @@
 
 <p align="center">
 
-***[ScientificInternetAccess](ScientificInternetAccess/) ***
+***[ScientificInternet](ScientificInternetAccess/) ***
 
 * [ChatGPT基础入门：初识ChatGPT](ChatGPT基础入门/)<em></em>
 * [ChatGPT核心原理和底层逻辑：知其然知其所以然](ChatGPT核心原理和底层逻辑/)
